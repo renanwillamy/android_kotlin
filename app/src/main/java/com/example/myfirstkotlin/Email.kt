@@ -82,5 +82,11 @@ fun fakeEmails(): MutableList<Email> = mutableListOf(
         subject = "Subject test 2"
         preview = "Something is written here but it makes no sense"
         date = "20 mai"
+    },
+    email {
+        user= "Maria"
+        subject = "Bla bla ensoe snsoa sn"
+        preview = "Loren islplunm coesop smeb beneto sosnao opls oseno lsnmsh snsep ksedr"
+        date = "21 mai"
     }
 )
